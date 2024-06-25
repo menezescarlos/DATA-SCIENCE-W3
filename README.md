@@ -1,4 +1,4 @@
-### Data Science & Advanced Analytcis
+### Data Science & Advanced Analytics
 
 #### Data Science Fundamentos
 
